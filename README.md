@@ -1,4 +1,4 @@
-# Simple Authentication Manager
+# Hashpass
 
 A beginner-friendly full-stack authentication project using:
 
